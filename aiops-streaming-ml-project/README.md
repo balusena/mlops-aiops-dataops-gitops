@@ -33,7 +33,7 @@ The system follows a real-time streaming AIOps architecture:
 <h2 align="center">
 </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-streaming-ml-project/aiops-streaming-ml.png" width="1500"/>
+  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-streaming-ml-project/aiops-streaming-ml.png" width="3000"/>
 </p>
 
 - Microservices emit telemetry data (status, latency, CPU, memory)
