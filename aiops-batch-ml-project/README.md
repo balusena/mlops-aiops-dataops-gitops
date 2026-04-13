@@ -75,8 +75,8 @@ Metrics:
 </p>
 
 Interpretation:
--  1 = Normal
---1 = Anomaly
+-   1 = Normal
+- -1 = Anomaly
 
 ---
 
