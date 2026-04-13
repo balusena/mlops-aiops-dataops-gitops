@@ -17,7 +17,6 @@ It combines:
 ---
 
 ## 🏗️ Architecture
-## 🏗️ Architecture
 ![aiops-batch-ml](https://raw.githubusercontent.com/balusena/aiops-batch-ml-project/main/aiops-batch-ml.png)
 
 ---
