@@ -67,14 +67,15 @@ Metrics:
 
 ---
 
-## 📈 Sample Output
-timestamp,service,req_count,error_rate,avg_latency,cpu_usage,anomaly
-2026-04-12 10:01,cart,120,0.08,0.45,0.62,1
-2026-04-12 10:01,user,98,0.02,0.30,0.40,1
-2026-04-12 10:01,payment,60,0.25,1.20,0.85,-1
+## 📈 Output
+
+<h2 align="center"></h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-batch-ml-project/output.png" width="400"/>
+</p>
 
 Interpretation:
-- 1 = Normal
+-  1 = Normal
 - -1 = Anomaly
 
 ---
