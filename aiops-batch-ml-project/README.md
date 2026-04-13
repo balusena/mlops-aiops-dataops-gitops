@@ -71,7 +71,7 @@ Metrics:
 
 <h2 align="center"></h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-batch-ml-project/output.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-batch-ml-project/output.png" width="700"/>
 </p>
 
 Interpretation:
