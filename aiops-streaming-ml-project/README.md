@@ -28,7 +28,13 @@ It combines:
 ## 🏗️ Architecture
 The system follows a real-time streaming AIOps architecture:
 
-![Architecture](https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-streaming-ml-project/aiops-streaming-ml.png)
+[//]: # (![Architecture]&#40;https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-streaming-ml-project/aiops-streaming-ml.png&#41;)
+
+<h2 align="center">
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-streaming-ml-project/aiops-streaming-ml.png" width="400"/>
+</p>
 
 - Microservices emit telemetry data (status, latency, CPU, memory)
 - OpenTelemetry-style collector pushes events into Kafka topic (`aiops-stream`)
