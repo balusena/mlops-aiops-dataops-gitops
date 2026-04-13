@@ -12,13 +12,13 @@ It combines:
 - 📊 System metrics (Prometheus)
 - 🤖 Machine Learning (Isolation Forest)
 
-⚠️ Runs in **batch mode (every 1 minute)**, not real-time streaming.
+- Runs in **batch mode (every 1 minute)**, not real-time streaming.
 
 ---
 
 <h2 align="center">🏗️ Architecture</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-batch-ml-project/aiops-batch-ml.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/balusena/mlops-aiops-dataops-gitops/main/aiops-batch-ml-project/aiops-batch-ml.png" width="400"/>
 </p>
 
 ---
