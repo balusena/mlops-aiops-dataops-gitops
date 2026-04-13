@@ -1,11 +1,11 @@
 # Batch-ML-Systems
 
-1. Batch ML system (what you wrote earlier)
-runs every 1–5 minutes
-fetches data from Elasticsearch + Prometheus
-builds dataset
-trains model again and again
-👉 This is NOT real-time
+# Batch ML system
+# runs every 1–5 minutes
+# fetches data from Elasticsearch + Prometheus
+# builds dataset
+# trains model again and again
+
 
 
 import requests
